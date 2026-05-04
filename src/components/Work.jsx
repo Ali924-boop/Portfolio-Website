@@ -1,4 +1,3 @@
-import React from 'react'
 import project1 from "../assets/Project1.png.png"
 import project2 from "../assets/Project2.png.png"
 import project3 from "../assets/Project3.png.png"
